@@ -1,8 +1,10 @@
 site_name: Wuanita
 site_url: https://jaspervdj.be/lorem-markdownum/markdown.txt
+
 nav:
   - Home: index.md
   - About: about.md
-theme: 
+
+theme: readthedocs
   name: material
 
