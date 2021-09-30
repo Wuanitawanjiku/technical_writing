@@ -1,0 +1,7 @@
+site_name: MkLorum
+site_url: https://jaspervdj.be/lorem-markdownum/markdown.txt
+nav:
+  - Home: index.md
+  - About: about.md
+theme: readthedocs
+
